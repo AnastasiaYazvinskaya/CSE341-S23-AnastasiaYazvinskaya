@@ -1,0 +1,26 @@
+{
+  "name": "cse341-s23-anastasiayazvinskaya",
+  "version": "1.0.0",
+  "description": "CSE341-S23-B2 Web Services",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiaYazvinskaya/CSE341-S23-AnastasiaYazvinskaya.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiaYazvinskaya/CSE341-S23-AnastasiaYazvinskaya/issues"
+  },
+  "homepage": "https://github.com/AnastasiaYazvinskaya/CSE341-S23-AnastasiaYazvinskaya#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
