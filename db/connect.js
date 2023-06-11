@@ -14,10 +14,6 @@ const initDb = callback => {
     .then(data => {
       _db = data;
       console.log("Database conection successfull");
-      /*const dblist = _db.db('cse341').collection('contact').find().toArray();
-      dblist.then(function(result) {
-        console.log(result) 
-      })*/
       callback(null, _db);
     })
     .catch(err => {
