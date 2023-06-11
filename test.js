@@ -15,7 +15,7 @@ async function main() {
             "lastName": "TestLastName1",
             "email": "con"+(Math.floor(Math.random() * 100000) + 10000)+"@byui.edu",
             "favoriteColor": "TestColor1",
-            "birthday": "01/01/20"
+            "birthday": "2000-01-01T20:00:00.000Z"
         });
         */
         /*
@@ -25,14 +25,14 @@ async function main() {
                 "lastName": "TestLastName2",
                 "email": "con"+(Math.floor(Math.random() * 100000) + 10000)+"@byui.edu",
                 "favoriteColor": "TestColor2",
-                "birthday": "01/01/20"
+                "birthday": "2000-01-01T20:00:00.000Z"
             },
             {
                 "firstName": "TestFirstName3",
                 "lastName": "TestLastName3",
                 "email": "con"+(Math.floor(Math.random() * 100000) + 10000)+"@byui.edu",
                 "favoriteColor": "TestColor3",
-                "birthday": "01/01/20"
+                "birthday": "2000-01-01T20:00:00.000Z"
             }
         ]);
         */
@@ -48,7 +48,7 @@ async function main() {
             lastName: "TestLastName4",
             email: "con"+(Math.floor(Math.random() * 100000) + 10000)+"@byui.edu",
             favoriteColor: "blue",
-            birthday: "01/01/20"
+            "birthday": "2000-01-01T20:00:00.000Z"
         });
         */
         /*
